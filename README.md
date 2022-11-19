@@ -2,14 +2,26 @@
 
 ## Note :
 >01.ipynb
-- 編輯器技巧(快捷鍵)
+1. 編輯器技巧(快捷鍵)
+
+> 02.ipynb
+1. 變數與資料型態
+2. 輸入與輸出
+
+> 03.ipynb
+1. 運算子
+2. 判斷式
+3. 串列與整數串列 (List)
+4. 
 
 
 
-## 教學連結 :
+## 參考資料 :
 
 > 課程連結
 - https://www.youtube.com/@edreamerTW/playlists
 
 > 講義:
 - 1-2 : https://pse.is/4ca7k9
+
+> [MarkDown參考資料](https://markdown.tw/)

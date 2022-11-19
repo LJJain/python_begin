@@ -12,8 +12,11 @@
 1. 運算子
 2. 判斷式
 3. 串列與整數串列 (List)
-4. 
+4. 迴圈 (for, while)
+5. break, continue
 
+> 04.ipynb (Python 物件導向程式開發)
+1. 
 
 
 ## 參考資料 :

@@ -16,13 +16,19 @@
 5. break, continue
 
 > 04.ipynb (Python 物件導向程式開發)
-1. import
-2. random
-3. os
-4. glob
-5. 類別 (定義、繼承)
+1. 模組
+2. 類別特性:封裝、繼承、多型
+3. 例外處理
 
-> 05.ipynb 
+> 05.ipynb (網路爬蟲與資料應用)
+1. 網路數據資料的收集
+2. 服務帳號:python-practice@python-practice-369605.iam.gserviceaccount.com
+3. 試算表ID:1vjId9A-BarLNBzMGJxOv1iafM7-pGvp8WPetofvedQU
+4. pip install gspread oauth2client
+
+> 06.ipynb (大數據收集、分析與視覺化)
+1. 
+
 
 
 ## 參考資料 :
@@ -32,6 +38,6 @@
 
 > 講義:
 - 1-2 : https://pse.is/4ca7k9
-- 3 : https://pse.is/4cgupl
+- 4 : https://pse.is/4cbyzt
 
 > [MarkDown參考資料](https://markdown.tw/)

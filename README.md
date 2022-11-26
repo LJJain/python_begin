@@ -27,7 +27,9 @@
 4. pip install gspread oauth2client
 
 > 06.ipynb (大數據收集、分析與視覺化)
-1. 
+
+> 07.ipynb (LINE Bot與WebAPI開發)
+- colab:https://colab.research.google.com/drive/1nNfYi5En4y_DhUCHLHstlwLay9AL_zv1?usp=sharing#scrollTo=TxAEsEjSfwyM
 
 
 
@@ -39,5 +41,10 @@
 > 講義:
 - 1-2 : https://pse.is/4ca7k9
 - 4 : https://pse.is/4cbyzt
+- 5 : https://bit.ly/3bklsyl
+- 6 : https://bit.ly/3zKuUo4
+
+> 素材:
+- Line-Bot: http://reurl.cc/zWVYkQ
 
 > [MarkDown參考資料](https://markdown.tw/)

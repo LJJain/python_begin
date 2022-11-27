@@ -30,6 +30,7 @@
 
 > 07.ipynb (LINE Bot與WebAPI開發)
 - colab:https://colab.research.google.com/drive/1nNfYi5En4y_DhUCHLHstlwLay9AL_zv1?usp=sharing#scrollTo=TxAEsEjSfwyM
+- 將內部網頁推至外部(ngrok):https://ngrok.com/
 
 
 

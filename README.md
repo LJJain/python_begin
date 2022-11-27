@@ -34,6 +34,11 @@
 - Line開發者:https://developers.line.biz/zh-hant/
 
 > 08.ipynb (Python進階模組實戰)
+- 新聞爬取(模組:scraparazzie, newspaper3k,technews-tw)
+- 多媒體圖片影片下載(google-images-download, bing-image-downloader)
+- 下載Youtube影片(pytube)
+- 語音文字處理 (gTTS模組：文字轉語音, SpeechRecognition模組：語音轉文字)
+- 金融匯率股票資料收集 (twstock模組)
 
 
 

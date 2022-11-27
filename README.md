@@ -39,6 +39,7 @@
 - 下載Youtube影片(pytube)
 - 語音文字處理 (gTTS模組：文字轉語音, SpeechRecognition模組：語音轉文字)
 - 金融匯率股票資料收集 (twstock模組)
+- LINE Notify
 
 
 

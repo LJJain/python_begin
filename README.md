@@ -31,6 +31,9 @@
 > 07.ipynb (LINE Bot與WebAPI開發)
 - colab:https://colab.research.google.com/drive/1nNfYi5En4y_DhUCHLHstlwLay9AL_zv1?usp=sharing#scrollTo=TxAEsEjSfwyM
 - 將內部網頁推至外部(ngrok):https://ngrok.com/
+- Line開發者:https://developers.line.biz/zh-hant/
+
+> 08.ipynb (Python進階模組實戰)
 
 
 
@@ -44,8 +47,13 @@
 - 4 : https://pse.is/4cbyzt
 - 5 : https://bit.ly/3bklsyl
 - 6 : https://bit.ly/3zKuUo4
+- 7 : https://bit.ly/3bmurPy
 
 > 素材:
 - Line-Bot: http://reurl.cc/zWVYkQ
+
+> 書目:
+- Python實戰聖經:https://reurl.cc/NZQMbe
+- Python與LINE Bot機器人全面實戰特訓班:https://s.yam.com/BouSK
 
 > [MarkDown參考資料](https://markdown.tw/)
